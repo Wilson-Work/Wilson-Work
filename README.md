@@ -51,10 +51,10 @@ Entry-level IT professional with structured technical training in Windows operat
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| Use Operating Systems tools and Features | manage, monitor, troubleshoot, and maintain a computer by allow you to control hardware, software, security, storage, and system performance. | ⏳ Pending | — |
-| Perform a Clean Installation of Windows 10 | Installing Windows 10 | ⏳ Pending | — |
-| Perform a Clean Installation of Windows 11 | Installing Windows 11 | ⏳ Pending | — |
-| Perform Monitoring | run several applications on your computer and use the Resource Monitor to determine which system resources these applications are using. | ⏳ Pending | — |
+| Use Operating Systems tools and Features | manage, monitor, troubleshoot, and maintain a computer by allow you to control hardware, software, security, storage, and system performance. | Completed | — |
+| Perform a Clean Installation of Windows 10 | Installing Windows 10 | Completed | — |
+| Perform a Clean Installation of Windows 11 | Installing Windows 11 | Completed | — |
+| Perform Monitoring | run several applications on your computer and use the Resource Monitor to determine which system resources these applications are using. | Completed | — |
 
 </details>
 
@@ -63,8 +63,8 @@ Entry-level IT professional with structured technical training in Windows operat
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| Creating a Subfolder in Google Drive | create a Subfolder in google drive | ⏳ Pending | [Open](https://ibb.co/TMRBJ4Ph) |
-| Prompt Engineering Lab | assigning the AI personas, generating  avatar images of yourself, analyzing a real job posting, and building a resume and cover letter  tailored to it. | ⏳ Pending | [Open](https://ibb.co/x8z7gh0g) |
+| Creating a Subfolder in Google Drive | create a Subfolder in google drive | Completed | [Open](https://ibb.co/TMRBJ4Ph) |
+| Prompt Engineering Lab | assigning the AI personas, generating  avatar images of yourself, analyzing a real job posting, and building a resume and cover letter  tailored to it. | Completed | [Open](https://ibb.co/x8z7gh0g) |
 
 </details>
 
@@ -73,9 +73,9 @@ Entry-level IT professional with structured technical training in Windows operat
 
 | Lab / Project | Description | Status | Link |
 |---|---|---|---|
-| Files, Permissions & ownership | use the Linux terminal to look inside files, search their contents, and control  who can read, change, or run them. | ⏳ Pending | — |
-| Budget Tracking Lab | Build a working budget tracker written in Bash. | ⏳ Pending | [Open](https://ibb.co/0RKfpPXd) |
-| Number Classifier & Invetory Manager | Build a program  that can classify numbers during demonstrations and also track a simple set of inventory items  such as pens, folders, and notebooks | ⏳ Pending | [Open](https://ibb.co/JF7CtMrp) |
+| Files, Permissions & ownership | use the Linux terminal to look inside files, search their contents, and control  who can read, change, or run them. | Completed | — |
+| Budget Tracking Lab | Build a working budget tracker written in Bash. | Completed | [Open](https://ibb.co/0RKfpPXd) |
+| Number Classifier & Invetory Manager | Build a program  that can classify numbers during demonstrations and also track a simple set of inventory items  such as pens, folders, and notebooks | Completed | [Open](https://ibb.co/JF7CtMrp) |
 
 </details>
 
